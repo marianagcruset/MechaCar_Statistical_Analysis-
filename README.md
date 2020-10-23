@@ -28,7 +28,7 @@ Population mean: 1500 lbs per square inch
 
 In order to create a business plan strong enough to stand out, it is necessary to find the areas of the company where they are strength and confident with, so from there try to differentiate from other competitors in the same market. To achieve this, we will need to design a statics test to compare the MechaCar vehicles with other companies.
 
-If the price the company plans to use is to sell the vehicles at the same price as our competitors, we would have to highlight other strengths as mentioned before, for example fuel efficiency. Also, factors like distances and weather conditions will be need, and comparing the dataset with comparable vehicles from competitors.
+If the price the company plans to use to sell the vehicles is at the same price as our competitors, we would have to highlight other strengths as mentioned before, for example the efficiency of our fuel. Also, factors like distances and weather conditions will be need, and comparing the dataset with comparable vehicles from competitors.
 
 
 I will need to set up a paired t-test, as we are comparing one sample data to the population data.
